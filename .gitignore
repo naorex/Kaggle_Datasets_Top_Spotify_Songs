@@ -1,0 +1,8 @@
+data_ignore/
+etc/
+/images/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
